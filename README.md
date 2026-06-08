@@ -113,7 +113,7 @@ This project includes multiple visualizations such as:
 # 📂 Project Structure
 
 ```bash
-Heart-Disease-Prediction-ML/
+Heart-Disease-Prediction/
 │
 ├── data/
 │   └── heart.csv
@@ -142,13 +142,13 @@ Heart-Disease-Prediction-ML/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Heart-Disease-Prediction-ML.git
+git clone https://github.com/YOUR_USERNAME/Heart-Disease-Prediction.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd Heart-Disease-Prediction-ML
+cd Heart-Disease-Prediction
 ```
 
 Install dependencies:
